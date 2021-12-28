@@ -9,22 +9,35 @@ install the packages with `pip install -r requirements.txt`
 run the cli with `python3 cli.py`
 
 ### CLI commands
-`help`: show this help
+`help`: show this 
+
 `help <command>`: show help for a specific command
+
 `list`: list all available commands
+
 `login -l --login`: login to the Application
+
 `logout -o --logout`: logout from the current session
+
 `signup -s --signup`: signup to the Application
+
 `get-user -g --get-user`: get the current user
+
 `get-user-by-id -i --get-user-by-id`: get a user by id
+
 `get-parcels -p --get-parcels`: get all parcels
 
 ### CLI options
 `-l, --login`: login to the Application
+
 `-o, --logout`: logout from the current session
+
 `-s, --signup`: signup to the Application
+
 `-g, --get-user`: get the current user
+
 `-i, --get-user-by-id`: get a user by id
+
 `-p, --get-parcels`: get all parcels
 
 ### Safe Courier Web Application
