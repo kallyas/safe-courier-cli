@@ -28,7 +28,7 @@ run the cli with `python3 cli.py`
 `-p, --get-parcels`: get all parcels
 
 ### Safe Courier Web Application
-![safe-courier-web-application](https://github.com/kallyas/safe-courier)
+[safe-courier-web-application](https://github.com/kallyas/safe-courier)
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
